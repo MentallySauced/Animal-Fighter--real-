@@ -15,4 +15,4 @@ attacking = false;
 grav = 0; 
 gravMax = 14;  // max falling speed
 gravDelta = 1.2;
-gravJump = -25;  // jump gravity
+gravJump = -35;  // jump gravity

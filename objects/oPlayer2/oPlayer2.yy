@@ -5,7 +5,10 @@
   },
   "solid": false,
   "visible": true,
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "Cow_Idle",
+    "path": "sprites/Cow_Idle/Cow_Idle.yy",
+  },
   "persistent": false,
   "parentObjectId": null,
   "physicsObject": false,
