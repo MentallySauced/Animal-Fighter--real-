@@ -24,27 +24,27 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"587270bd-0561-4b52-b890-82e1a573680d","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"587270bd-0561-4b52-b890-82e1a573680d","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"LayerId":{"name":"1833ec8f-1bf8-471b-9b29-3ff45c93dff7","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Chicken_Melee_Attack","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"resourceVersion":"1.0","name":"587270bd-0561-4b52-b890-82e1a573680d","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"05c88c18-0179-481b-94ec-98719937c5d5","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"05c88c18-0179-481b-94ec-98719937c5d5","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"LayerId":{"name":"1833ec8f-1bf8-471b-9b29-3ff45c93dff7","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Chicken_Melee_Attack","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"resourceVersion":"1.0","name":"05c88c18-0179-481b-94ec-98719937c5d5","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"b84c2ecc-e0db-432a-8a6d-69ab017d87e3","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b84c2ecc-e0db-432a-8a6d-69ab017d87e3","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"LayerId":{"name":"1833ec8f-1bf8-471b-9b29-3ff45c93dff7","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Chicken_Melee_Attack","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"resourceVersion":"1.0","name":"b84c2ecc-e0db-432a-8a6d-69ab017d87e3","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"b92e096d-29f0-49b2-adf3-f270d00783d9","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b92e096d-29f0-49b2-adf3-f270d00783d9","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"LayerId":{"name":"1833ec8f-1bf8-471b-9b29-3ff45c93dff7","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Chicken_Melee_Attack","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"resourceVersion":"1.0","name":"b92e096d-29f0-49b2-adf3-f270d00783d9","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"553c0d73-b5f8-4910-b3cf-9292695e1213","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"553c0d73-b5f8-4910-b3cf-9292695e1213","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"LayerId":{"name":"1833ec8f-1bf8-471b-9b29-3ff45c93dff7","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Chicken_Melee_Attack","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"resourceVersion":"1.0","name":"553c0d73-b5f8-4910-b3cf-9292695e1213","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"811f44c3-e074-4a8d-88ac-e792f595ff7b","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"811f44c3-e074-4a8d-88ac-e792f595ff7b","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"LayerId":{"name":"1833ec8f-1bf8-471b-9b29-3ff45c93dff7","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Chicken_Melee_Attack","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"resourceVersion":"1.0","name":"811f44c3-e074-4a8d-88ac-e792f595ff7b","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"fa8c7535-9c50-431f-b09f-d6988dbb0c76","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"fa8c7535-9c50-431f-b09f-d6988dbb0c76","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"LayerId":{"name":"1833ec8f-1bf8-471b-9b29-3ff45c93dff7","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Chicken_Melee_Attack","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"resourceVersion":"1.0","name":"fa8c7535-9c50-431f-b09f-d6988dbb0c76","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"2212fb7b-2781-46e2-99c2-c16596b270b1","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"2212fb7b-2781-46e2-99c2-c16596b270b1","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"LayerId":{"name":"95ab85c3-8b84-45f8-a9d2-e8067ad12273","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Chicken_Melee_Attack","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"resourceVersion":"1.0","name":"2212fb7b-2781-46e2-99c2-c16596b270b1","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"208cf8ab-cb74-404e-933f-04a29fb949be","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"208cf8ab-cb74-404e-933f-04a29fb949be","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"LayerId":{"name":"95ab85c3-8b84-45f8-a9d2-e8067ad12273","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Chicken_Melee_Attack","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"resourceVersion":"1.0","name":"208cf8ab-cb74-404e-933f-04a29fb949be","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"45a3e76d-5626-4795-a5ea-2181f5832624","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"45a3e76d-5626-4795-a5ea-2181f5832624","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"LayerId":{"name":"95ab85c3-8b84-45f8-a9d2-e8067ad12273","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Chicken_Melee_Attack","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"resourceVersion":"1.0","name":"45a3e76d-5626-4795-a5ea-2181f5832624","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"93ca87a1-29b8-4b6f-9909-3c31a244850a","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"93ca87a1-29b8-4b6f-9909-3c31a244850a","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"LayerId":{"name":"95ab85c3-8b84-45f8-a9d2-e8067ad12273","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Chicken_Melee_Attack","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"resourceVersion":"1.0","name":"93ca87a1-29b8-4b6f-9909-3c31a244850a","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"a9b19eb7-3312-4da9-8a2e-428f8555013f","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"a9b19eb7-3312-4da9-8a2e-428f8555013f","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"LayerId":{"name":"95ab85c3-8b84-45f8-a9d2-e8067ad12273","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Chicken_Melee_Attack","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"resourceVersion":"1.0","name":"a9b19eb7-3312-4da9-8a2e-428f8555013f","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"a8f93d15-9b86-42b0-a27c-6f4d5fe0e534","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"a8f93d15-9b86-42b0-a27c-6f4d5fe0e534","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"LayerId":{"name":"95ab85c3-8b84-45f8-a9d2-e8067ad12273","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Chicken_Melee_Attack","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"resourceVersion":"1.0","name":"a8f93d15-9b86-42b0-a27c-6f4d5fe0e534","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"c2adfc38-d306-494c-9ad9-25ef66393b3f","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"c2adfc38-d306-494c-9ad9-25ef66393b3f","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"LayerId":{"name":"95ab85c3-8b84-45f8-a9d2-e8067ad12273","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Chicken_Melee_Attack","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"resourceVersion":"1.0","name":"c2adfc38-d306-494c-9ad9-25ef66393b3f","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"Chicken_Melee_Attack","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},
@@ -59,13 +59,13 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"434c46e1-a1bf-45a5-ae2a-5d87814b9082","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"587270bd-0561-4b52-b890-82e1a573680d","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"14c35a7c-bff0-4cb8-92e5-19c8b8333306","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"05c88c18-0179-481b-94ec-98719937c5d5","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"55fbc11b-13ec-4a3e-aaed-545fcdc74fd3","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b84c2ecc-e0db-432a-8a6d-69ab017d87e3","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"fd94aec9-ed88-4255-bb3f-3c74943b284d","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b92e096d-29f0-49b2-adf3-f270d00783d9","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"af30e915-d5e6-49a3-a21c-d0391f96c88d","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"553c0d73-b5f8-4910-b3cf-9292695e1213","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"3e23c9a2-87fc-4b14-b19c-d0e7c26d7956","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"811f44c3-e074-4a8d-88ac-e792f595ff7b","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"9053d03c-5757-4260-803b-0e0002d44c45","Key":6.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"fa8c7535-9c50-431f-b09f-d6988dbb0c76","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"e453e8be-41d1-4332-80bc-7b78c4746591","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"2212fb7b-2781-46e2-99c2-c16596b270b1","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"c3987380-aec8-428d-8d0d-d55544910b6d","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"208cf8ab-cb74-404e-933f-04a29fb949be","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"108b6643-3d76-4f97-811a-4a04bc3b6fd8","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"45a3e76d-5626-4795-a5ea-2181f5832624","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"cd84f830-6c67-4972-947c-ecc92d3b755c","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"93ca87a1-29b8-4b6f-9909-3c31a244850a","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"49278666-8e49-4136-914d-556790cf8f56","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a9b19eb7-3312-4da9-8a2e-428f8555013f","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"ce73bea0-3937-46a0-a601-8f59101512e6","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a8f93d15-9b86-42b0-a27c-6f4d5fe0e534","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"690b52be-fd7f-40c8-bc92-9cafe1076048","Key":6.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c2adfc38-d306-494c-9ad9-25ef66393b3f","path":"sprites/Chicken_Melee_Attack/Chicken_Melee_Attack.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -89,9 +89,33 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"1833ec8f-1bf8-471b-9b29-3ff45c93dff7","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"95ab85c3-8b84-45f8-a9d2-e8067ad12273","tags":[],"resourceType":"GMImageLayer",},
   ],
-  "nineSlice": null,
+  "nineSlice": {
+    "left": 0,
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "guideColour": [
+      4294902015,
+      4294902015,
+      4294902015,
+      4294902015,
+    ],
+    "highlightColour": 1728023040,
+    "highlightStyle": 0,
+    "enabled": false,
+    "tileMode": [
+      0,
+      0,
+      0,
+      0,
+      0,
+    ],
+    "resourceVersion": "1.0",
+    "loadedVersion": null,
+    "resourceType": "GMNineSliceData",
+  },
   "parent": {
     "name": "Chicken Gifs",
     "path": "folders/Sprites/Chicken Gifs.yy",
