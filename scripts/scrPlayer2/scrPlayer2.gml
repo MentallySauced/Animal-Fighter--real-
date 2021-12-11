@@ -24,7 +24,7 @@ function scrPlayer2(){
 			grav = 0;
 		}
 	}
-		
+		//test
 	
 	// Walking
 	if (keyboard_check(vk_left)) {
