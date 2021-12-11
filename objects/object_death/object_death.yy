@@ -1,10 +1,10 @@
 {
   "spriteId": {
-    "name": "sCollision",
-    "path": "sprites/sCollision/sCollision.yy",
+    "name": "obj_death",
+    "path": "sprites/obj_death/obj_death.yy",
   },
-  "solid": true,
-  "visible": false,
+  "solid": false,
+  "visible": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -28,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "collision",
+  "name": "object_death",
   "tags": [],
   "resourceType": "GMObject",
 }
