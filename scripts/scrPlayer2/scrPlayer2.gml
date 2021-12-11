@@ -1,16 +1,21 @@
 function scrPlayer2(){
-
+	keyLeft = keyboard_check(vk_left);
+	keyRight = keyboard_check(vk_right);
+	keyUp = keyboard_check(vk_up);
+	keyAttack = keyboard_check(ord("/"));
+	
+	hSpeed = (keyRight - keyLeft) * walkSpeed;
+	
 	// basic Jumping
 	y = y+grav;
 	grav += gravDelta;
 	if (grav >= gravMax) {
 		grav = gravMax;
 	}
-	// test commit
 	
 	// Jumping and falling
 	if (!jumping) {
-		if (keyboard_check(vk_up)){
+		if (keyUp){
 			grav = gravJump;
 			jumping = true;
 		}
@@ -24,35 +29,17 @@ function scrPlayer2(){
 			grav = 0;
 		}
 	}
-		//test
 	
-	// Walking
-	if (keyboard_check(vk_left)) {
-		dir = 1;
-		image_xscale = dir;
-		if (!jumping && !falling){
-			sprite_index = Cow_Walk;
+	x += hSpeed;
+	
+	if (hSpeed != 0) {
+		image_xscale = -sign(hSpeed);
+		if (sprite_index != Cow_Walk) {
+			image_index = 2
 		}
-		x = x-xspeed;
-	} else if (keyboard_check(vk_right)) {
-		dir = -1;
-		image_xscale = dir;
-		if (!jumping && !falling){
-			sprite_index = Cow_Walk;
-		}
-		x = x+xspeed;
-	}
-	
-	
-	// Attacks
-	if (keyboard_check(ord("/"))) {
-		sprite_index = Cow_Melee_Attack;
-		attacking = true;
-		alarm[4] = 2;
-	}
-	
-	if (global.p2health == 0) {
-		instance_destroy();
+		sprite_index = Cow_Walk;
+	} else {
+		sprite_index = Cow_Idle;
 	}
 	
 }

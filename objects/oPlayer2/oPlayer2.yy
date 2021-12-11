@@ -29,7 +29,12 @@
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"collision","path":"objects/collision/collision.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"oPlayer1","path":"objects/oPlayer1/oPlayer1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":4,"eventType":2,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+<<<<<<< Updated upstream
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"object_death","path":"objects/object_death/object_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+=======
+    {"isDnD":false,"eventNum":5,"eventType":2,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":7,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+>>>>>>> Stashed changes
   ],
   "properties": [],
   "overriddenProperties": [],

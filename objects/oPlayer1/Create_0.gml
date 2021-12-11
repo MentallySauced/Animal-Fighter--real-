@@ -16,4 +16,3 @@ grav = 0;
 gravMax = 14;  // max falling speed
 gravDelta = 1.2;
 gravJump = -35;  // jump gravity
-canHit = true;

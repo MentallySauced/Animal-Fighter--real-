@@ -5,7 +5,10 @@
   },
   "solid": false,
   "visible": true,
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "Chicken_Idle",
+    "path": "sprites/Chicken_Idle/Chicken_Idle.yy",
+  },
   "persistent": false,
   "parentObjectId": null,
   "physicsObject": false,
@@ -26,7 +29,12 @@
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"collision","path":"objects/collision/collision.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"oPlayer2","path":"objects/oPlayer2/oPlayer2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":2,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+<<<<<<< Updated upstream
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"object_death","path":"objects/object_death/object_death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+=======
+    {"isDnD":false,"eventNum":1,"eventType":2,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":7,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+>>>>>>> Stashed changes
   ],
   "properties": [],
   "overriddenProperties": [],
